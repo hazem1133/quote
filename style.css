@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.martin{
+    font-family: "Martian Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+}
+.poetsen-one-bold {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+  }
+.body-text {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 35px;
+  }
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+  }
